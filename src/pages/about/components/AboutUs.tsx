@@ -168,26 +168,23 @@ const AboutUs = () => {
                     </Col>
                     <Col lg={6}>
                         <div className="vl-about-content2 ml-20">
-                            <div className="large-thumb mb-30">
-                                <img className="w-100" src={aboutThum4} alt='aboutThum4' />
-                            </div>
                             <div className="content mb-30">
                                 <p>At I-DO, we work with an objective of providing universal, affordable accessible Primary Health Care (PHC) and Education to the most underserved and marginalized population in remote tribal areas.</p>
                                 <div className="icon-list-box box2">
-                                    <ul>
-                                        <li>
+                                    <ul >
+                                        <li style={{fontWeight: "normal"}}>
                                             <span><FaCheck className="fa-solid fa-check" /></span>
                                             <strong>Mobile Healthcare & Outreach:</strong> Mobile Medical Units (MMUs) are set up to provide Primary Health Care services focusing on Mother and Child Health.
                                         </li>
-                                        <li>
+                                        <li style={{fontWeight: "normal"}}>
                                             <span><FaCheck className="fa-solid fa-check" /></span>
                                             <strong>Community Health Workers:</strong> Identification, Training and Capacity Building of Community Health Workers (CHWs).
                                         </li>
-                                        <li>
+                                        <li style={{fontWeight: "normal"}}>
                                             <span><FaCheck className="fa-solid fa-check" /></span>
                                             <strong>Education & Early Childhood Programs:</strong> Establishing Bridge Schools in the areas that lack access to Formal Education like Anganwadis to provide Early Childhood Education 
                                         </li>
-                                        <li>
+                                        <li style={{fontWeight: "normal"}}>
                                             <span><FaCheck className="fa-solid fa-check" /></span>
                                             <strong>Health Education:</strong> Promoting health awareness and Behavioral Change Communication (BCC) through Street Plays (Nukkad Natak) and improving health-seeking behaviour.
                                         </li>
