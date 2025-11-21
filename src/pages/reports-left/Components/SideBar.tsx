@@ -1,6 +1,5 @@
 import { useState, useRef } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import arrowDown from '@/assets/img/icons/vl-arrow-down.svg';
 import { categories, categoryContent } from '../data';
 import type { ContentItem } from '../data';
 
