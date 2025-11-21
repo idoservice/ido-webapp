@@ -1,8 +1,5 @@
 import blogImg1 from '@/assets/img/updates/blog/Tubectomy surgery-4.jpeg';
 import blogImg2 from '@/assets/img/updates/blog/Adarsh.jpg';
-import blogImg3 from '@/assets/img/updates/blog/world-prematurity-day/1-C-IUwtsh.jpg';
-import blogImg4 from '@/assets/img/updates/blog/world-prematurity-day/1000659320.jpg';
-import blogImg5 from '@/assets/img/updates/blog/world-prematurity-day/1000659328.jpg';
 import caseStudyImg from '@/assets/img/updates/casestudies/Anitha Thati.jpg';
 import upstoppable from '@/assets/videos/unstoppable.mp4';
 
@@ -50,49 +47,6 @@ export const categoryContent: Record<string, CategoryData> = {
     Blog: {
         items: [
             {
-                id: 'world-prematurity-day-2025',
-                title: 'World Prematurity Day 2025: Supporting Premature Babies and Their Families in Tribal Communities',
-                date: 'November 16, 2025',
-                author: 'IDO Medical Team',
-                summary: 'Commemorating World Prematurity Day by highlighting IDO\'s commitment to improving neonatal care and supporting families of premature babies in remote tribal areas.',
-                sections: [
-                    {
-                        paragraphs: [
-                            "1 in 5 babies born in the state capital, Hyderabad, is born too soon. But in a tribal area about 275 km away, there were once no statistics at all on preterm deliveries. When the pioneer of the Indigenous Development Organization (IDO) reached this vulnerable rural population in remote tribal habitations of Bhadradri Kothagudem, he realized that the majority of deliveries were happening at home, leading to unaccounted maternal and infant deaths."
-                        ]
-                    },
-                    {
-                        image: blogImg3,
-                        subtitle: 'IDO\'s Commitment to Neonatal Care',
-                        paragraphs: [
-                            "IDO has been striving relentlessly to make the lives of these people better. One of their first goals was to improve maternal health and thereby reduce the Maternal Mortality Rate (MMR) and Infant Mortality Rate (IMR).",
-                            "Today, with 9 years of tireless efforts, IDO has sensitized many families about the importance of safe delivery practices and their impact on maternal and newborn health.",
-                            "From high-risk mothers delivering preterm and low-birth-weight (LBW) babies at home on muddy floors - often succumbing to complications due to social determinants, poor health-seeking behaviour, and long distances to medical centres, and not even being captured in official MMR or IMR counts-to achieving a reduction in home deliveries from 76% in 2021 to 53% in 2024, IDO has made meaningful progress in reducing high-risk births and improving newborn care."
-                        ]
-                    },
-                    {
-                        image: blogImg4,
-                        subtitle: 'Building Awareness and Support Systems',
-                        paragraphs: [
-                            "This transformation is happening due to the presence of Community Health Workers (CHWs), who identify the risk of preterm delivered babies in their localities and take necessary action. They are basically school based drop outs identified and trained by IDO as health-based volunteers, who are compassionate about serving their communities. ",
-                            "Under Home Based New Born Care (HBNC) program, they reach out to their own hamlets that have no access to Asha workers and identify premature babies at the right time. They refer them to government hospital for further treatment by escorting the pregnant woman to save the child’s life. "
-                        ]
-                    },
-                    {
-                        image: blogImg5,
-                        subtitle: 'Looking Forward',
-                        paragraphs: [
-                            "Under the guidance of Dr Thejaswi Vanam, Pediatrician, the trainers at IDO impart the necessary skills to CHWs in detecting the risk of preterm babies on two indicators i.e. Kids born before 37 weeks prior to Estimated Date of Delivery (EDD) and less than 2.5 kgs of Birth Weight. ",
-                            "The collaboration between government institutions and IDO is slowly paving way to reducing Infant Mortality Rate (IMR) in these indigenous communities. ",
-                            "Through IDO’s sustained presence, community health worker training, capacity building, and improved linkages, essential maternal and child health services have finally reached this otherwise hard-to-reach population, helping bring their health outcomes closer to those living hundreds of kilometres away.",
-                            "Currently, the country’s average IMR is 23 per 1,000 live births, compared to 115 per 1,000 live births among the vulnerable population being served by IDO.",
-                            "IDO’s work echoes this year’s WHO theme for World Prematurity Day 2025:",
-                            "Give preterm babies a strong start for a hopeful future."
-                        ]
-                    }
-                ]
-            },
-            {
                 id: 'family-planning-initiatives',
                 title: 'Empowering Tribal Women Aware About Family Planning Initiatives',
                 date: 'November 2024',
@@ -102,11 +56,11 @@ export const categoryContent: Record<string, CategoryData> = {
                 sections: [
                     {
                         paragraphs: [
-                            'Long before IDO started its work in Gattumalla, women in tribal habitations were unaware of Family Planning Surgery. This often led to situations where they had no spacing between children impacting their reproductive health. Fear of hospital admission forced them to visit traditional healers, known as Vadde. They used to administer traditional medicines as a contraceptive. It often failed resulting in various health issues. ',
+                            'Long before IDO started its work in Gattumalla, women in tribal habitations were unaware of Family Planning Surgery. This often led to situations where they had no spacing between children impacting their reproductive health. Fear of hospital admission forced them to visit traditional healers, known as Vadde'. They used to administer traditional medicines as a contraceptive. It often failed resulting in various health issues. ',
                             'In the interior hamlets, most of the women are anaemic due to lack of nutritional support. This resulted in pre-term deliveries, low-birth weight babies, high risk pregnancies and poor health outcomes for both mothers and infants. Most importantly, lack of access to health facilities has led many women bear large families, giving birth to 7-8 children and in some cases even up to 11 children.',
                             'This affected the health of already malnourished and anaemic women. It can get lead to a serious illness, if left untreated. There had been instances where Elderly women between 45 – 50 years were pregnant risking both mother and child lives. It is only after Community Health Workers (CHWs) started visiting, a change begun. By educating women and men about the benefits of Family Planning surgery, they were able to overcome misconceptions. With their continuous efforts, the communities trust in medical practices grew, and women began to understand the importance of reproductive health.',
                             'To avoid impending health burden on women, Indigenous Development organisation - IDO started Family Planning Initiative including both Tubectomy and Birth Spacing (Copper – T). The shift from traditional practices to modern, scientifically backed methods like Mini-Laparoscopy and Tubectomy surgeries not only empowered women but also encouraged family participation. Now, couples are involved in the decision-making process, with both partners receiving counseling at IDO– Health Center. ',
-                            "Our Doctors interact with both husbands and wives, explains about the DO's and Don't's to help them get a holistic view about the procedure. All the pre-surgery blood tests and post care till next 3 days is provided at the centre ensuring that every patient receives complete and compassionate care throughout the process. This transformation has enabled women to experience healthier pregnancies, better maternal health, and, ultimately, healthier families.",
+                            'Our Doctors interact with both husbands and wives, explains about the DO's and Don't's to help them get a holistic view about the procedure. All the pre-surgery blood tests and post care till next 3 days is provided at the centre ensuring that every patient receives complete and compassionate care throughout the process. This transformation has enabled women to experience healthier pregnancies, better maternal health, and, ultimately, healthier families.',
                         ]
                     }
                 ]
@@ -124,7 +78,7 @@ export const categoryContent: Record<string, CategoryData> = {
                             'Indigenous Development Organiation ((IDO) is proud to acknowledge Adarsh Vikas Sriram for his inspiring social initiative that seeks to enhance digital learning opportunities for tribal students in Bhadradri, Kothagudem district.',
                             'Adarsh passion for tackling literacy challenges in remote hamlets led him to collaborate with IDO. With the guidance of our team, his vision transformed into a meaningful project. His valuable efforts resulted in equipping 13 Bridge schools with Solar TVs each worth Rs. 45,000, offering over 450 tribal children access to digital education.',
                             'In recognition of his outstanding work, we invited him to inaugurate the Solar TV project in a Bridge school at Yerrakunta habitation. The children and community members were thrilled to experience this new technology, something they had never seen before.',
-                            "We celebrated Adarsh as a 'Champion of Change' at the IDO Health Centre, honoring his role in advancing digital literacy in tribal communities where access to electricity is scarce. His parents, Ms. Geethalakshmi G and Mr. Sriram, also joined the event.",
+                            'We celebrated Adarsh as a 'Champion of Change' at the IDO Health Centre, honoring his role in advancing digital literacy in tribal communities where access to electricity is scarce. His parents, Ms. Geethalakshmi G and Mr. Sriram, also joined the event.',
                             'At such a young age, Adarsh commitment to bridging the digital divide showcases remarkable leadership and compassion. IDO is privileged to support Adarsh in his impactful mission, and we believe his work will inspire others to contribute to the development of underserved communities.'
                         ]
                     }
@@ -146,8 +100,8 @@ export const categoryContent: Record<string, CategoryData> = {
                         subtitle: 'Background:',
                         paragraphs: [
                             'On August 28, 2025, 23-year-old Thati Anitha, who was in active labour, was being carried in a makeshift stretcher (Doli) by a group of men toward the nearest healthcare facility. This took place in Pittathogu, a remote tribal village in Pinapaka mandal, Bhadradri Kothagudem district, located about 10 kilometers from the main road.',
-                            "The scene was noticed by the husband of Community Health Worker (CHW) Podiyam Sirisha while he was out fetching water. Realizing the urgency, he immediately informed his wife. Unaware of the situation, Sirisha quickly took a neighbor's help and rushed to reach Anitha on a bike.",
-                            "Upon reaching the group, Sirisha learned from Anitha's father-in-law that they had earlier gone to her home seeking help, but she wasn't there. With no other option, the men had taken turns carrying Anitha through muddy, rain-soaked paths to get her to safety. Sirisha too walked along with them as the bike malfunctioned due to muddy waters.",
+                            'The scene was noticed by the husband of Community Health Worker (CHW) Podiyam Sirisha while he was out fetching water. Realizing the urgency, he immediately informed his wife. Unaware of the situation, Sirisha quickly took a neighbor's help and rushed to reach Anitha on a bike.',
+                            'Upon reaching the group, Sirisha learned from Anitha's father-in-law that they had earlier gone to her home seeking help, but she wasn't there. With no other option, the men had taken turns carrying Anitha through muddy, rain-soaked paths to get her to safety. Sirisha too walked along with them as the bike malfunctioned due to muddy waters.',
                             'Anitha was eventually taken in an ambulance toward Munuguru Area Hospital, but the situation took an unexpected turn during the journey. Prior to this, CHW during her home visits counselled Anitha and her family to opt for Institutional Delivery.'
                         ]
                     },
@@ -174,7 +128,7 @@ export const categoryContent: Record<string, CategoryData> = {
                     {
                         subtitle: 'Conclusion:',
                         paragraphs: [
-                            "AAM Podiyam Sirisha's quick thinking, professional courage, and application of her knowledge showcases the key role that skilled community health workers play in maternal and newborn health care. Her intervention not only ensured the safety of both mother and child but also emphasized the importance of investment in capacity building under initiatives like SPHPAR."
+                            'AAM Podiyam Sirisha's quick thinking, professional courage, and application of her knowledge showcases the key role that skilled community health workers play in maternal and newborn health care. Her intervention not only ensured the safety of both mother and child but also emphasized the importance of investment in capacity building under initiatives like SPHPAR.'
                         ]
                     }
                 ]
